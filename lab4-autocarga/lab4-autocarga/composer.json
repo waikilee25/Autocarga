@@ -1,0 +1,10 @@
+{
+    "name": "laboratorio/autocarga",
+    "description": "Laboratorio de Autoload con PSR-4",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}
+
